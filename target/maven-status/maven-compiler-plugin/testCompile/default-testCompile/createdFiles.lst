@@ -1,0 +1,7 @@
+com\pcg\utils\MailerTest.class
+com\pcg\utils\CleanerTest.class
+com\pcg\PostCodeValidatorTest.class
+com\pcg\utils\Km2MilesTest.class
+com\pcg\PcgBirminghamApplicationTests.class
+com\pcg\PostCodeDBCacheRepositoryTest.class
+com\pcg\PostCodeToJsonTest.class

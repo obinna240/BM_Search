@@ -1,0 +1,60 @@
+Starting solr
+>> bin solr start -p 8983
+Create a solr core
+>> solr create -c birmingham
+
+
+How solr treats postcode search
+http://localhost:8983/solr/birmingham/select?&q=*:*&fq={!geofilt%20sfield=geoLocation}&pt=51.51267,-0.08988&d=200
+
+
+http://localhost:8983/solr/birmingham/select?&q=*:*&fq={!geofilt sfield=geoLocation}&pt=51.51267,-0.08988&d=45&sort=geodist() asc&sfield=geoLocation&fl=*,distance:geodist()
+
+http://localhost:8983/solr/birmingham/select?&q=*:*&fq={!geofilt}&pt=51.51267,-0.08988&d=45&sort=geodist() asc&sfield=geoLocation&fl=*,distance:geodist()
+
+Creating a subquery to expand results for example,
+query for results in Jacksonville, Florida, or within 50 kilometers of 45.15,-93.85 (near Buffalo,
+Minnesota):
+&q=*:*&fq=(state:"FL" AND city:"Jacksonville") OR
+{!geofilt}&sfield=store&pt=45.15,-93.85&d=50&sort=geodist()+asc
+
+How Solr deals with Facets
+facet=true is compulsory
+facet.query = Generates a lucene query (Use this to override Solr's default faceting behaviour) 
+
+Unit Testing
+1. External dependencies should be removed from unit tests, e.g., 
+by replacing the dependency with a 
+test implementation or a (mock) object created by a test framework.
+
+2. Running Unit tests outside of the IDE
+You can also run your JUnit tests outside our IDE via standard Java code. 
+Build systems like Apache Maven or Gradle in combination with a Continuous Integration Server 
+(like Jenkins) can be used to execute tests automatically on a regular basis.
+
+The org.junit.runner.JUnitCore class provides the runClasses() method. 
+This method allows you to run one or several tests classes. 
+As a return parameter you receive an object of the type org.junit.runner.Result. 
+This object can be used to retrieve information about the tests.
+
+The following class demonstrates how to run the MyClassTest. 
+This class executes your test class and write potential failures to the console.
+
+package de.vogella.junit.first;
+
+import org.junit.runner.JUnitCore;
+import org.junit.runner.Result;
+import org.junit.runner.notification.Failure;
+
+public class MyTestRunner {
+  public static void main(String[] args) {
+    Result result = JUnitCore.runClasses(MyClassTest.class);
+    for (Failure failure : result.getFailures()) {
+      System.out.println(failure.toString());
+    }
+  }
+}
+
+
+Delete the index
+http://localhost:8983/solr/birmingham/update?stream.body=%3Cdelete%3E%3Cquery%3E*:*%3C/query%3E%3C/delete%3E&commit=true

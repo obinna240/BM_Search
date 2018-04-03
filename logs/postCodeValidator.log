@@ -1,0 +1,210 @@
+2018-03-27 14:17:53.581  INFO PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-27 14:17:53.582  WARN PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : DBBBB 888UJU is an invalid postcode 
+2018-03-27 14:17:53.582  INFO PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-27 14:17:53.584  INFO PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-27 14:17:53.585  WARN PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : abc. 34HG is an invalid postcode 
+2018-03-27 14:17:53.585  INFO PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-27 14:17:53.586  INFO PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-27 14:17:53.586  WARN PCGUK038 --- [           main] c.p.u.PostCodeValidator                  :   is an invalid postcode 
+2018-03-27 14:17:53.586  INFO PCGUK038 --- [           main] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:30:45.287  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:30:45.287  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : 5LE is an invalid postcode 
+2018-03-28 09:30:45.288  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:30:59.390  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:30:59.390  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:30:59.390  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:01.579  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:01.579  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : bw is an invalid postcode 
+2018-03-28 09:31:01.579  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:03.394  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:03.394  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:03.394  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:04.013  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:04.013  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:04.013  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:16.462  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:16.462  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : bw is an invalid postcode 
+2018-03-28 09:31:16.462  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:17.012  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:17.012  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : bw is an invalid postcode 
+2018-03-28 09:31:17.013  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:22.995  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:22.995  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:31:22.995  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:23.855  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:23.855  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : DN1 1ES BW is an invalid postcode 
+2018-03-28 09:31:23.855  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:29.579  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:29.579  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:29.579  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:31.345  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:31.346  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:31.346  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:32.432  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:32.433  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:31:32.433  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:35.616  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:35.617  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : DN4 OTG is an invalid postcode 
+2018-03-28 09:31:35.617  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:36.116  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:36.117  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:31:36.117  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:36.488  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:36.489  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:36.489  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:37.939  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:37.939  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:37.943  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:52.626  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:52.627  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:52.627  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:53.932  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:31:53.932  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:31:53.932  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:06.390  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:06.390  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:06.390  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:06.553  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:06.553  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:32:06.553  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:10.368  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:10.368  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:10.368  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:10.543  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:10.543  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:32:10.543  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:10.938  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:10.938  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:10.938  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:12.005  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:12.005  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:12.005  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:12.547  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:12.547  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:12.547  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:14.910  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:14.910  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:14.910  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:21.232  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:21.232  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:32:21.232  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:24.591  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:24.592  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:32:24.592  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:28.208  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:28.209  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:32:28.209  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:29.654  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:29.654  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:29.654  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:34.514  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:34.514  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : n/a is an invalid postcode 
+2018-03-28 09:32:34.514  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:36.822  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:36.822  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:32:36.822  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:41.496  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:41.497  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:41.497  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:42.655  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:42.655  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:42.655  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:52.751  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:52.751  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:32:52.751  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:54.353  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:54.353  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:32:54.353  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:56.888  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:32:56.888  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:32:56.888  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:00.367  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:00.367  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:00.367  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:03.529  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:03.529  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:33:03.529  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:04.766  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:04.766  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:04.766  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:11.405  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:11.405  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:11.405  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:26.406  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:26.407  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:26.407  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:27.360  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:27.360  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:27.360  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:29.180  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:29.181  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:29.181  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:30.105  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:30.105  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:30.105  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:56.210  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:33:56.210  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:33:56.210  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:05.435  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:05.435  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:34:05.435  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:10.798  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:10.798  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : DN11 ONQ is an invalid postcode 
+2018-03-28 09:34:10.798  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:11.328  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:11.328  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:34:11.328  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:22.482  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:22.482  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:34:22.482  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:23.744  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:23.744  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:34:23.744  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:24.443  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:24.443  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:34:24.443  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:38.454  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:38.454  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:34:38.454  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:38.918  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:38.918  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : DN4 OTY is an invalid postcode 
+2018-03-28 09:34:38.918  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:43.660  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:34:43.660  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:34:43.660  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:06.583  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:06.583  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : bw is an invalid postcode 
+2018-03-28 09:35:06.583  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:11.155  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:11.155  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : NULL is an invalid postcode 
+2018-03-28 09:35:11.155  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:11.623  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:11.624  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:35:11.624  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:13.140  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:13.140  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : DN4 ODS is an invalid postcode 
+2018-03-28 09:35:13.140  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:15.036  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:15.036  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:35:15.036  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:26.557  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:26.557  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:35:26.557  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:26.739  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:26.739  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:35:26.739  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:27.014  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:27.014  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : DN4 OEP is an invalid postcode 
+2018-03-28 09:35:27.014  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:28.663  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:28.663  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:35:28.663  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:44.582  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:44.582  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : . is an invalid postcode 
+2018-03-28 09:35:44.582  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:45.592  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:45.592  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : Doncaster is an invalid postcode 
+2018-03-28 09:35:45.592  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:45.915  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************
+2018-03-28 09:35:45.915  WARN PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : UK is an invalid postcode 
+2018-03-28 09:35:45.915  INFO PCGUK038 --- [io-8080-exec-10] c.p.u.PostCodeValidator                  : **************************************************************

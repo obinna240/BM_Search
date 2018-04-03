@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pcg.utils.Km2MilesTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.pcg.utils.Km2MilesTest

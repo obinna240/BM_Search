@@ -1,0 +1,6 @@
+2018-03-28 09:35:52.202  INFO PCGUK038 --- [io-8080-exec-10] c.p.c.AppIndexer                         : Indexing was successful
+2018-03-28 09:56:32.712  INFO PCGUK038 --- [nio-8080-exec-1] c.p.c.AppController                      : == Logging user request ==
+2018-03-28 09:56:41.942  INFO PCGUK038 --- [nio-8080-exec-2] c.p.c.AppController                      : == Logging user request ==
+2018-03-28 10:02:37.918  INFO PCGUK038 --- [nio-8080-exec-5] c.p.c.AppController                      : == Logging user request ==
+2018-03-28 10:24:43.275  INFO PCGUK038 --- [nio-8080-exec-8] c.p.c.AppController                      : == Logging user request ==
+2018-03-28 10:40:02.831  INFO PCGUK038 --- [nio-8080-exec-1] c.p.c.AppController                      : == Logging user request ==
